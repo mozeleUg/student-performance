@@ -1,3 +1,4 @@
+setup
 pandas
 seaborn
 numpy
