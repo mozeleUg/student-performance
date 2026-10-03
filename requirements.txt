@@ -1,4 +1,4 @@
-setup
+setuptools
 pandas
 seaborn
 numpy
